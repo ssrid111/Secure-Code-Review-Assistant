@@ -297,3 +297,11 @@ GitHub:  ssrid111￼
 LinkedIn:  Swetha Sridharan￼
 
 Based on experience in AI systems, security-focused applications, full-stack engineering, and intelligent automation.  ￼
+
+Ashuwanthh Ravichandran
+M.Sc. Cyber Security - PSG College Of Technology
+
+GitHub: Ashu-1505
+LinkedIn: Ashuwanthh Ravichandran
+
+Based on experience in security automation, full-stack engineering and threat hunting.

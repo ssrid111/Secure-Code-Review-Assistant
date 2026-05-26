@@ -115,6 +115,7 @@ Integrations
 
 
 📂 Project Structure
+```bash
 secure-code-review-assistant/
 │
 ├── agents/

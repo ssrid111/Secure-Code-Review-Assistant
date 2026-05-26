@@ -287,8 +287,11 @@ git push origin feature/new-feature
 
 5. Open a Pull Request
 
+# 📄 License
 
-👩‍💻 Author
+This project is currently not licensed for public distribution or commercial use.
+
+👩‍💻 Authors
 
 Swetha Sridharan
 M.S. Software Engineering — Arizona State University

@@ -85,29 +85,6 @@ The system learns:
 * Team review history
 * Security conventions
 
-🏗️ System Architecture
-
-GitHub Webhook
-       ↓
-Webhook Listener (FastAPI)
-       ↓
-Event Queue (Redis/Kafka)
-       ↓
-AI Orchestration Engine
-       ↓
-┌──────────────────────────┐
-│ Multi-Agent Review Layer │
-└──────────────────────────┘
- ↓       ↓       ↓
-Security Logic Architecture
- Agent    Agent     Agent
-       ↓
-Decision Engine
-       ↓
-GitHub PR Comments / Alerts
-       ↓
-Approve • Reject • Escalate
-
 🛠️ Tech Stack
 
 Backend
